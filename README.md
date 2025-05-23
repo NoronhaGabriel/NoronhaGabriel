@@ -61,5 +61,5 @@
 </p>
 
 
-![Snake animation](https://github.com/NoronhaGabriel)
+
 
