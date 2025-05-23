@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  GabrielNoronha:
     name: Atualiza o README com atividades recentes
     runs-on: ubuntu-latest
     steps:
