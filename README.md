@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- README.md -->
 
-<!--
-**NoronhaGabriel/NoronhaGabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá, eu sou o Gabriel Noronha! 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFEF&size=25&center=true&vCenter=true&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Aprendendo+novas+skills!" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mim
+
+🎯 Desenvolvedor Full Stack <br>
+💡 Criando soluções com código limpo e eficiente <br>
+🎓 Sempre estudando novas tecnologias <br>
+🌍 De São Carlos
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoronhaGabriel&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoronhaGabriel&theme=tokyonight" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoronhaGabriel&layout=compact&theme=tokyonight" width="48%" />
+</div>
+
+---
+
+## 📈 Atividades Recentes
+
+<!-- Você pode usar GitHub Actions + um repositório com workflow para isso -->
+<!-- Ou usar uma integração tipo https://github.com/Readme-Workflows/recent-activity -->
+
+---
+
+## 📫 Contato
+
+- 💼 [LinkedIn](https://linkedin.com/in/GabrielNoronha)
+- ✉️ Email: [gabrielnoronha](gonzalesgabriel2016@gmail.com)
+
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <i>“Código é poesia.”</i>
+</p>
