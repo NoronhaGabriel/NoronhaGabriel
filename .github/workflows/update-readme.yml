@@ -1,0 +1,16 @@
+name: Atualizar Atividades Recentes
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # roda todo começo de hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: j-mcnally/recent-activity-readme-action@v2.1.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
