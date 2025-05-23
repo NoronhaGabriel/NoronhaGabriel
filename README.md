@@ -44,12 +44,6 @@
 
 ---
 
-## 📈 Atividades Recentes
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
-
 ## 📫 Contato
 
 - 💼 LinkedIn: [Gabriel Noronha](https://www.linkedin.com/in/gabriel-noronha-b69852339/)
