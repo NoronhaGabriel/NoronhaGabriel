@@ -59,3 +59,7 @@
 <p align="center">
   <i>“Código é poesia.”</i>
 </p>
+
+
+![Snake animation](https://github.com/NoronhaGabriel)
+
