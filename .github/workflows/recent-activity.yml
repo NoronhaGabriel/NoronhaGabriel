@@ -1,0 +1,16 @@
+name: 🦉 Atualizar Atividades Recentes
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # Roda a cada hora
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Atualiza o README com atividades recentes
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Readme-Workflows/recent-activity@v2.6.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
