@@ -53,7 +53,7 @@
 
 ## 📫 Contato
 
-- 💼 [LinkedIn]([https://linkedin.com/in/GabrielNoronha](https://www.linkedin.com/in/gabriel-noronha-b69852339/))
+- 💼 [LinkedIn]([https://linkedin.com/in/gabriel-noronha)
 - ✉️ Email: [gabrielnoronha](gonzalesgabriel2016@gmail.com)
 
 
