@@ -46,9 +46,8 @@
 
 ## 📈 Atividades Recentes
 
-<!-- Você pode usar GitHub Actions + um repositório com workflow para isso -->
-<!-- Ou usar uma integração tipo https://github.com/Readme-Workflows/recent-activity -->
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 
 ## 📫 Contato
