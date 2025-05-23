@@ -2,7 +2,7 @@ name: Atualizar Atividades Recentes
 
 on:
   schedule:
-    - cron: '0 * * * *'  # roda todo começo de hora
+    - cron: '0 * * * *'  # roda no começo de cada hora
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: j-mcnally/recent-activity-readme-action@v2.1.0
+      - uses: juliangruber/recent-activity@v1.3.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
