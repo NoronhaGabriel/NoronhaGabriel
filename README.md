@@ -32,14 +32,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoronhaGabriel&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoronhaGabriel&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noronhagabriel&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noronhagabriel&theme=tokyonight" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoronhaGabriel&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noronhagabriel&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ---
