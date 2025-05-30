@@ -13,7 +13,7 @@
 🎯 Desenvolvedor Full Stack <br>
 💡 Criando soluções com código limpo e eficiente <br>
 🎓 Sempre estudando novas tecnologias <br>
-🌍 De São Carlos
+🌍 De Piracicaba
 
 ---
 
