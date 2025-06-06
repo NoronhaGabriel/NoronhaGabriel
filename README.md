@@ -1,4 +1,4 @@
-a<!-- README.md -->
+<!-- README.md -->
 
 <h1 align="center">Olá, eu sou o Gabriel Noronha! 👋</h1>
 
