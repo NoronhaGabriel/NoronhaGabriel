@@ -1,21 +1,21 @@
-<h1 align="center">Hi, I'm Gabriel Noronha! 👋</h1>
+<h1 align="center">Hello, I'm Gabriel Noronha! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFEF&size=25&center=true&vCenter=true&lines=Fullstack+Developer;Passionate+about+technology;Always+learning+new+skills!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFEF&size=25&center=true&vCenter=true&lines=Fullstack+Developer;Technology+Enthusiast;Always+Improving+My+Skills!" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎯 Full Stack Developer <br>
-💡 Creating solutions with clean and efficient code <br>
-🎓 Always studying new technologies <br>
-🌍 From Piracicaba, Brazil
+🎯 Full Stack Developer focused on delivering high-quality solutions  
+💡 Passionate about clean code and efficient systems  
+🎓 Continuously learning and exploring new technologies  
+🌍 Based in Piracicaba, Brazil
 
 ---
 
-## 🧰 Technologies and Tools
+## 🧰 Technologies & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -44,8 +44,8 @@
 
 ## 📫 Contact
 
-- 💼 LinkedIn: [Gabriel Noronha](https://www.linkedin.com/in/gabriel-noronha-/)
-- ✉️ Email: [gabrielnoronha](gonzalesgabriel2016@gmail.com)
+- 💼 LinkedIn: [Gabriel Noronha](https://www.linkedin.com/in/gabriel-noronha-/)  
+- ✉️ Email: [gonzalesgabriel2016@gmail.com](mailto:gonzalesgabriel2016@gmail.com)
 
 ---
 
