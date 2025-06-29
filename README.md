@@ -1,23 +1,21 @@
-<!-- README.md -->
-
-<h1 align="center">Olá, eu sou o Gabriel Noronha! 👋</h1>
+<h1 align="center">Hi, I'm Gabriel Noronha! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFEF&size=25&center=true&vCenter=true&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Aprendendo+novas+skills!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFEF&size=25&center=true&vCenter=true&lines=Fullstack+Developer;Passionate+about+technology;Always+learning+new+skills!" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-🎯 Desenvolvedor Full Stack <br>
-💡 Criando soluções com código limpo e eficiente <br>
-🎓 Sempre estudando novas tecnologias <br>
-🌍 De Piracicaba
+🎯 Full Stack Developer <br>
+💡 Creating solutions with clean and efficient code <br>
+🎓 Always studying new technologies <br>
+🌍 From Piracicaba, Brazil
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Technologies and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -44,11 +42,10 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 💼 LinkedIn: [Gabriel Noronha](https://www.linkedin.com/in/gabriel-noronha-/)
 - ✉️ Email: [gabrielnoronha](gonzalesgabriel2016@gmail.com)
-
 
 ---
 
@@ -57,9 +54,5 @@
 </p>
 
 <p align="center">
-  <i>“Código é poesia.”</i>
+  <i>"Code is poetry."</i>
 </p>
-
-
-
-
